@@ -11,3 +11,4 @@ def getNews(newsItem):
 
 def urlify(string_in): 
     return string_in.replace(" ","%20")
+LOL.
